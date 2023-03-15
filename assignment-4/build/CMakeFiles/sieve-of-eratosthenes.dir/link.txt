@@ -1,0 +1,1 @@
+/usr/bin/c++  -fopenmp -rdynamic CMakeFiles/sieve-of-eratosthenes.dir/sieve-of-eratosthenes.cpp.o -o sieve-of-eratosthenes 
